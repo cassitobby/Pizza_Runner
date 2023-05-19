@@ -1,5 +1,5 @@
 # Pizza_Runner
-This is the week one of the 8 Week SQL Challenge by Danny Ma. [Click here to view all material and respected credit]([url](https://8weeksqlchallenge.com/case-study-2/))
+This is the week one of the 8 Week SQL Challenge by Danny Ma. [Click here to view all material and respected credit](https://8weeksqlchallenge.com/case-study-2/)
 
 ![image](https://github.com/cassitobby/Pizza_Runner/assets/128924056/1d1e083a-da3a-4921-8340-5a7f31b2d965)
 
@@ -26,12 +26,12 @@ Danny has created an entity relationship diagram (ERD) for his database design i
 - Basic Calculations: Able to perform calculations and apply mathematical operations to analyze and derive insights from data.
 
 # Case Study
-- [Data Cleaning]([url](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/Data_cleaning.sql))
-- [Part A. Pizza Metrics]([url](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/A.%20Pizza%20Metrics.sql))
-- [Part B. Runner and Customer Experience]([url](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/B.%20Runner%20and%20Customer%20Experience.sql))
-- [Part C. Ingredient Optimisation]([url](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/C.%20Ingredient%20Optimisation.sql))
-- [Part D. Pricing and Ratings]([url](https://github.com/cassitobby/Pizza_Runner/blob/918ec94d15195ada6922d7d8f59cb46b1594bdc4/Solution/D.%20Pricing%20and%20Ratings.sql))
-- [Part E - Insight and Recommendation]([url](https://github.com/cassitobby/Pizza_Runner/blob/main/Insight%20%26%20Recommendation.sql))
+- [Data Cleaning](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/Data_cleaning.sql)
+- [Part A. Pizza Metrics](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/A.%20Pizza%20Metrics.sql)
+- [Part B. Runner and Customer Experience](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/B.%20Runner%20and%20Customer%20Experience.sql)
+- [Part C. Ingredient Optimisation](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/C.%20Ingredient%20Optimisation.sql)
+- [Part D. Pricing and Ratings](https://github.com/cassitobby/Pizza_Runner/blob/918ec94d15195ada6922d7d8f59cb46b1594bdc4/Solution/D.%20Pricing%20and%20Ratings.sql)
+- [Part E - Insight and Recommendation](https://github.com/cassitobby/Pizza_Runner/blob/main/Insight%20%26%20Recommendation.sql)
 
 # Insight
 1. Total of 14 orders were placed. These orders originated from 10 distinct customers.
