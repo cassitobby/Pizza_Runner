@@ -30,7 +30,7 @@ Danny has created an entity relationship diagram (ERD) for his database design i
 - [Part A. Pizza Metrics]([url](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/A.%20Pizza%20Metrics.sql))
 - [Part B. Runner and Customer Experience]([url](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/B.%20Runner%20and%20Customer%20Experience.sql))
 - [Part C. Ingredient Optimisation]([url](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/C.%20Ingredient%20Optimisation.sql))
-- [Part D. Pricing and Ratings]([url](https://github.com/cassitobby/Pizza_Runner/blob/main/Solution/D.%20Pricing%20and%20Ratings.sql))
+- [Part D. Pricing and Ratings]([url](https://github.com/cassitobby/Pizza_Runner/blob/918ec94d15195ada6922d7d8f59cb46b1594bdc4/Solution/D.%20Pricing%20and%20Ratings.sql))
 - [Part E - Insight and Recommendation]([url](https://github.com/cassitobby/Pizza_Runner/blob/main/Insight%20%26%20Recommendation.sql))
 
 # Insight
