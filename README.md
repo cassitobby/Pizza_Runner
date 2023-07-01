@@ -1,5 +1,5 @@
 # Pizza_Runner
-This is the week one of the 8 Week SQL Challenge by Danny Ma. [Click here to view all material and respected credit](https://8weeksqlchallenge.com/case-study-2/)
+This is the week Two of the 8 Week SQL Challenge by Danny Ma. [Click here to view all material and respected credit](https://8weeksqlchallenge.com/case-study-2/)
 
 ![image](https://github.com/cassitobby/Pizza_Runner/assets/128924056/1d1e083a-da3a-4921-8340-5a7f31b2d965)
 
